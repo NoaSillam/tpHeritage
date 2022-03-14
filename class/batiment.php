@@ -1,7 +1,8 @@
 
 <?php
-
-class batiment{
+require_once 'batiStructure.php';  
+class batiment implements batiStructure
+{
     private $nom;
     private $superficie;
     private $type;
