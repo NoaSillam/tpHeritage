@@ -34,6 +34,7 @@ class batiment{
     {
     return $this->nbEtage;
     }
+    //aaaaa
 }
 
 ?>
